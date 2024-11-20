@@ -1,0 +1,13 @@
+Parthiban A 
+
+Cheat sheet:
+
+touch (creation of file)
+cd (change directory)
+ls (list)
+ls -la (list hidden)
+git init (initiate git)
+git status (checking Status)
+git commit -m (commit along with a message)
+git push <filename.txt> (uploading a file)
+git clone (download a file)
